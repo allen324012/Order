@@ -1,6 +1,3 @@
 # Order
 #<h1>學員管理系統</h1>
-<a href="https://youtu.be/ton5uXnJHZE" target=_blank>ex</a>
-
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ton5uXnJHZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
